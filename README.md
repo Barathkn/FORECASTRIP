@@ -28,16 +28,7 @@ Paryatana is a front-end website for a travel agency. The website contains detai
 - If you can modify the User Interface to improve User Experience on the website raise an issue with the proposed changes. 
 - If you would like to add more functionality to the site raise an issue with the proposed changes.
  
-## Contributing Guidelines
-- Take a look at [`contributing guidelines`](Contributing.md) if you're interested in contributing!
-- Refer [GitHub Flow](https://guides.github.com/introduction/flow).
 
-## The heart of this project are our contributors : 
 
-<a href="https://github.com/Arun9739/Paryatana/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Arun9739/Paryatana"/>
-</a>
-
-## [MIT Licensed](https://github.com/Arun9739/Paryatana/blob/main/LICENSE)
 
 
