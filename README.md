@@ -1,7 +1,7 @@
 # [Welcome to FORECASTRIP ✈️]
 Click [here] to have a look at our website.
 <p align="center">
-Forecastrip is a front-end website for a travel agency. The website contains details about tourist destinations, available hotels and car booking services and also it predicts the weather for 1-week. We focus on displaying various attractive places within the country and tourist packages are updated as they are announced by the travel agency. Details about the founder and manager are included, together with links to the Paryatana website social media pages.
+Forecastrip is a front-end website for a travel agency. The website contains details about tourist destinations, available hotels and car booking services and also it predicts the weather for 1-week. We focus on displaying various attractive places within the country and tourist packages are updated as they are announced by the travel agency.
 </p>
 
 <br> <br>
