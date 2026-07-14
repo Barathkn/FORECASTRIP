@@ -91,34 +91,37 @@ Recommended cities are surfaced on the **Discover** page under "Popular Cities."
 
 ---
 
+
 ## 📸 Screenshots
 
-Project output screenshots are stored in the [`/screenshots`](./screenshots) folder of this repository. To add yours:
+### Home Page
+![Home Page](./screenshots/home.jpg)
 
-1. Create a folder named `screenshots` at the root of the repo (if it doesn't already exist).
-2. Add your image files there, e.g.:
-   ```
-   screenshots/
-   ├── home-page.png
-   ├── discover-page.png
-   ├── explore-page.png
-   ├── city-page.png
-   └── packages-page.png
-   ```
-3. Reference them in this README using relative Markdown image syntax, for example:
+### Discover Page
+![Discover Page](./screenshots/page1.png)
 
-   ```markdown
-   ### Home Page
-   ![Home Page](./screenshots/home-page.png)
+### Recommendation Page
+![Recommendations Page](./screenshots/page2.png)
 
-   ### Explore Page
-   ![Explore Page](./screenshots/explore-page.png)
+### Popular Packages
 
-   ### City Page
-   ![City Page](./screenshots/city-page.png)
-   ```
+![Popular Packages](./screenshots/page3.png)
 
-   Replace the example lines above with your actual screenshots once uploaded — GitHub will render them automatically in the README.
+![Popular Packages](./screenshots/page4.png)
+
+![Popular Packages](./screenshots/page5.png)
+
+### City Page
+
+![City Page](./screenshots/page6.png)
+
+![City Page](./screenshots/page7.png)
+
+![City Page](./screenshots/page8.png)
+
+
+### Explore Page
+![Explore Page](./screenshots/page9.png)
 
 ---
 
