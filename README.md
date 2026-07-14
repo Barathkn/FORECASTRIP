@@ -109,7 +109,7 @@ Recommended cities are surfaced on the **Discover** page under "Popular Cities."
 
 ![Popular Packages](./screenshots/page4.png)
 
-![Popular Packages](./screenshots/page5.png)
+![Popular Packages](./screenshots/page5.jpg)
 
 ### City Page
 
