@@ -125,12 +125,9 @@ Recommended cities are surfaced on the **Discover** page under "Popular Cities."
 
 ---
 
-## 👥 Contributors
+## 👥 Developer
 
-- Kabilan K
-- Ramanan M
-- Ashwanth S P
-- Barath K N
+**Barath K N**
 
 **Guide:** Ms. P. Rajeswari, Department of Computer Engineering, PSG Polytechnic College
 
